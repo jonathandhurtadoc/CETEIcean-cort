@@ -31,3 +31,7 @@ tei-expan {
 tei-del {
     text-decoration: line-through red;
 }
+
+tei-add {
+    color:fuchsia;
+}
