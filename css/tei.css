@@ -27,3 +27,7 @@ tei-abbr {
 tei-expan {
     color: green;
 }
+
+tei-del {
+    text-decoration: line-through red;
+}
