@@ -19,3 +19,11 @@ tei-persname {
     font-variant: small-caps;
 color: brown;
 }
+
+tei-abbr {
+    display: hidden;
+}
+
+tei-expan {
+    color: green;
+}
