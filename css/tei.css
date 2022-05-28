@@ -31,7 +31,15 @@ tei-expan {
 tei-del {
     text-decoration: line-through red;
 }
-
+ 
 tei-add {
+    text-decoration-line: ;
     color:fuchsia;
 }
+
+tei-quote {
+    margin-left: 1cm;
+    display: block;
+    font-size: smaller;
+}
+
